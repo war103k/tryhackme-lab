@@ -3,6 +3,7 @@
 Room Link: https://tryhackme.com/room/blueDifficulty: Beginner / IntermediateFocus: Exploiting MS17-010 (EternalBlue) on a Windows VMTools:
 
 use : Kali Linux (or any pentest distro)
+
 Tools : Nmap, Metasploit Framework, SMB enumeration scripts
 
 
@@ -23,8 +24,6 @@ Tools : Nmap, Metasploit Framework, SMB enumeration scripts
 7: Capturing Flags & Room Questions
 
 8: Mitigation & Hardening Tips
-
-9: Repository Structure
 
 ## 1. Overview & Setup
 
@@ -169,22 +168,6 @@ Network Segmentation: Limit SMB traffic
 
 Endpoint Monitoring: Alert on unusual SMB behavior
 
-## 9. Repository Structure
-
-blue-walkthrough/
-├── README.md               # This detailed walkthrough
-├── nmap/
-│   ├── full-tcp-portscan.txt
-│   └── smb-enum.txt
-├── metasploit/
-│   └── msf-session.log
-├── post-exploit/
-│   ├── winPEAS-output.txt
-│   └── creds_all.txt
-└── screenshots/
-    ├── nmap-smb.png
-    ├── metasploit-shell.png
-    └── flag-root.png
 
 🎉 Congrats! You’ve fully exploited and documented the Blue machine.Feel free to open an issue or PR if you find anything to improve!
 
