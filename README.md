@@ -1,2 +1,1 @@
-# tryhackme-lab
-TryHackMe labs are hands-on cybersecurity challenges grouped by topic and difficulty. Each lab teaches a specific skill like scanning, exploitation, or privilege escalation. Walkthroughs provide step-by-step guidance using real tools and commands to help learners understand and solve each task logically.
+ TryHackMe: Blue – Walkthrough
