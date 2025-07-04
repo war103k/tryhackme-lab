@@ -49,9 +49,9 @@ In this walkthrough we'll call it <TARGET_IP>
 
 ## 2. Network Scanning & Enumeration
 
-### 2.1 Full TCP Port Scan
+### 2.1 Port Scan
 
-<pre> nmap -p- -T4 -oN nmap/full-tcp-portscan.txt <TARGET_IP> </pre>
+<pre> nmap -sV -A <TARGET_IP> </pre>
 
 ![Banner](images/2.png)
 
