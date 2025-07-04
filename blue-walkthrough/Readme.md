@@ -1,5 +1,6 @@
 # TryHackMe: Blue – Walkthrough
 
+
 Room Link: https://tryhackme.com/room/blueDifficulty: Beginner / IntermediateFocus: Exploiting MS17-010 (EternalBlue) on a Windows VMTools:
 
 use : Kali Linux (or any pentest distro)
